@@ -6,7 +6,6 @@ This repository contains a single-page CV (Curriculum Vitae) built using only HT
 - [Overview](#overview)
 - [Features](#features)
 - [Project Requirements](#project-requirements)
-- [File Structure](#file-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -37,13 +36,6 @@ The goal of this project is to provide a professional, structured, and easily ma
 4. **Favicon:** Adds a favicon to the page for branding.
 5. **Structured Layout:** Organized sections for education, skills, career history, and social links.
 
----
-
-## File Structure
-repo
-	├── index.html # The main HTML file containing the CV.
-	├── favicon.ico # Favicon for the CV. 
-	└── README.md # Documentation file (this file).
 ---
 
 ## Usage
