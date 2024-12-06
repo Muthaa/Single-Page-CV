@@ -40,9 +40,10 @@ The goal of this project is to provide a professional, structured, and easily ma
 ---
 
 ## File Structure
-repo/ ├── index.html # The main HTML file containing the CV 
-	  ├── favicon.ico # Favicon for the CV 
-	  └── README.md # Documentation file (this file)
+repo/
+	├── index.html # The main HTML file containing the CV 
+	├── favicon.ico # Favicon for the CV 
+	└── README.md # Documentation file (this file)
 
 ---
 
